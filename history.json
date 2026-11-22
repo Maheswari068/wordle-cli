@@ -1,0 +1,12 @@
+[
+  {
+    "won": true,
+    "attempts": 6,
+    "word": "zebra"
+  },
+  {
+    "won": false,
+    "attempts": 6,
+    "word": "ghost"
+  }
+]
